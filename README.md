@@ -8,3 +8,6 @@ This is a console application; usage in other programs may result in funny-looki
 
 # Problems
 TikTok doesn't allow names with only numbers, so even though it says they're available, they won't work. Also, for some reason it says that some names aren't available. I don't know how to fix such things.
+
+# Notes
+This was made in under 30 minutes. Expect potential bugs.
