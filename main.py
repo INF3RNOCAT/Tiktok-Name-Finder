@@ -47,4 +47,4 @@ class TikTokUserFinder:
             time.sleep(self.interval)
 
 
-Runner = TikTokUserFinder(INTERVAL, NAME_LENGTH)
+TikTokUserFinder(INTERVAL, NAME_LENGTH)
